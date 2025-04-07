@@ -22,13 +22,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEHDIMYADI&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-*This updates automatically with [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)*
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehdimyadi)
