@@ -71,14 +71,14 @@ A comprehensive financial management application with releases for Windows, offe
 - مدیریت رویداد و یادآوری‌ها  
 - نمایش اوقات شرعی  
 - رابط کاربری زیبا و کاربرپسند  
-[مشاهده پروژه روزگار →](https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases)
+[مشاهده پروژه روزگار ←](https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases)
 
 ### 💰 Roozegaar Finance  
 اپلیکیشن جامع مدیریت مالی با نسخه‌های منتشرشده برای ویندوز، ویژگی‌ها:  
 - ردیابی هزینه‌ها و ابزارهای بودجه‌بندی  
 - گزارش‌ها و نمودارهای مالی دقیق  
 - رابط کاربری ساده و زیبا با WinUI 3  
-[مشاهده پروژه Roozegaar Finance →](https://github.com/MEHDIMYADI/RoozegaarFinance-Releases)
+[مشاهده پروژه Roozegaar Finance ←](https://github.com/MEHDIMYADI/RoozegaarFinance-Releases)
 
 ---
 
