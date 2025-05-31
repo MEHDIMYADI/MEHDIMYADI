@@ -23,6 +23,13 @@ A comprehensive financial management application with releases for Windows, offe
 - User-friendly interface with WinUI 3  
 [Check out Roozegaar Finance →](https://github.com/MEHDIMYADI/RoozegaarFinance-Releases)
 
+### 🖥️ **DebloaterPro**  
+A powerful Windows optimization tool designed to help you:  
+- Remove bloatware and pre-installed apps from Windows  
+- Enhance privacy by disabling telemetry and managing permissions  
+- Manage services, perform system maintenance, and apply performance tweaks  
+[Explore DebloaterPro →](https://github.com/MEHDIMYADI/DebloaterPro)
+
 ---
 
 ## 🛠 Technical Expertise
@@ -73,12 +80,20 @@ A comprehensive financial management application with releases for Windows, offe
 - رابط کاربری زیبا و کاربرپسند  
 [مشاهده پروژه روزگار ←](https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases)
 
-### 💰 Roozegaar Finance  
+### 💰 سامانه مالی روزگار
 اپلیکیشن جامع مدیریت مالی با نسخه‌های منتشرشده برای ویندوز، ویژگی‌ها:  
 - ردیابی هزینه‌ها و ابزارهای بودجه‌بندی  
 - گزارش‌ها و نمودارهای مالی دقیق  
 - رابط کاربری ساده و زیبا با WinUI 3  
 [مشاهده پروژه Roozegaar Finance ←](https://github.com/MEHDIMYADI/RoozegaarFinance-Releases)
+
+### 🖥️ **دبلاوتر پرو**  
+ابزاری قدرتمند برای بهینه‌سازی ویندوز که به شما کمک می‌کند:  
+- حذف نرم‌افزارهای اضافی و پیش‌نصب شده ویندوز  
+- افزایش حریم خصوصی با غیرفعال کردن تلمتری و مدیریت دسترسی‌ها  
+- مدیریت سرویس‌ها، انجام نگهداری سیستم، و اعمال تنظیمات بهینه‌سازی  
+[مشاهده پروژه DebloaterPro ←](https://github.com/MEHDIMYADI/DebloaterPro)
+
 
 ---
 
