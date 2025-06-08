@@ -28,7 +28,7 @@ A powerful Windows optimization tool designed to help you:
 - Remove bloatware and pre-installed apps from Windows  
 - Enhance privacy by disabling telemetry and managing permissions  
 - Manage services, perform system maintenance, and apply performance tweaks  
-[Explore DebloaterPro →](https://github.com/MEHDIMYADI/DebloaterPro)
+[Explore Debloater Pro →](https://github.com/MEHDIMYADI/DebloaterPro)
 
 ---
 
