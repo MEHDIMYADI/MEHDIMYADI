@@ -23,7 +23,7 @@ A comprehensive financial management application with releases for Windows, offe
 - User-friendly interface with WinUI 3  
 [Check out Roozegaar Finance →](https://github.com/MEHDIMYADI/RoozegaarFinance-Releases)
 
-### 🖥️ **DebloaterPro**  
+### 🖥️ **Debloater Pro**  
 A powerful Windows optimization tool designed to help you:  
 - Remove bloatware and pre-installed apps from Windows  
 - Enhance privacy by disabling telemetry and managing permissions  
