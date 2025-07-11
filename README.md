@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mehdi
+# 👋 Hi, I'm Mehdi Dimyadi
 
 🚀 **Mobile & Windows Developer** | 📱 Android (Kotlin & Java) | 🖥️ WinUI 3 (C#)  
 💡 Passionate about crafting seamless, intuitive user experiences across platforms  
@@ -62,7 +62,7 @@ A powerful Windows optimization tool designed to help you:
 
 <div dir="rtl" align="right">
 
-# 👋 سلام، من مهدی هستم
+# 👋 سلام، من مهدی دیمیادی هستم
 
 🚀 **توسعه‌دهنده موبایل و ویندوز** | 📱 اندروید (Kotlin و Java) | 🖥️ WinUI 3 (C#)  
 💡 علاقه‌مند به خلق تجربه‌های کاربری روان و جذاب در پلتفرم‌های مختلف  
