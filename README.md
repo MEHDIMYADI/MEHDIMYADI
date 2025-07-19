@@ -14,7 +14,7 @@ A modern Persian calendar app for Windows built with WinUI 3, featuring:
 - Event management & notifications  
 - Prayer times integration  
 - Sleek and intuitive UI  
-[Explore Roozegaar Calendar →](https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases)
+[Check out Roozegaar Calendar →](https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases)
 
 ### 💰 Roozegaar Finance  
 A comprehensive financial management application with releases for Windows, offering:  
@@ -23,12 +23,19 @@ A comprehensive financial management application with releases for Windows, offe
 - User-friendly interface with WinUI 3  
 [Check out Roozegaar Finance →](https://github.com/MEHDIMYADI/RoozegaarFinance-Releases)
 
+### 🎙️ Roozegaar Voice Assistant
+A smart voice assistant for Windows with real-time speech recognition using Vosk engine, offering:
+- Live speech-to-text in Persian and English
+- Custom voice commands and punctuation
+- Seamless native UI with WinUI 3
+[Check out Roozegaar Voice Assistant →](https://github.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases)
+
 ### 🖥️ **Debloater Pro**  
 A powerful Windows optimization tool designed to help you:  
 - Remove bloatware and pre-installed apps from Windows  
 - Enhance privacy by disabling telemetry and managing permissions  
 - Manage services, perform system maintenance, and apply performance tweaks  
-[Explore Debloater Pro →](https://github.com/MEHDIMYADI/DebloaterPro)
+[Check out Debloater Pro →](https://github.com/MEHDIMYADI/DebloaterPro)
 
 ---
 
