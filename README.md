@@ -27,7 +27,7 @@ A comprehensive financial management application with releases for Windows, offe
 A smart voice assistant for Windows with real-time speech recognition using Vosk engine, offering:
 - Live speech-to-text in Persian and English
 - Custom voice commands and punctuation
-- Seamless native UI with WinUI 3
+- Seamless native UI with WinUI 3  
 [Check out Roozegaar Voice Assistant →](https://github.com/MEHDIMYADI/RoozegaarVoiceAssistant-Releases)
 
 ### 🖥️ **Debloater Pro**  
